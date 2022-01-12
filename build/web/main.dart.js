@@ -29900,7 +29900,7 @@ A.qF.prototype={
 aD(){return new A.Ez(B.n)}}
 A.Ez.prototype={
 K(a,b){var s=null
-return A.HJ(A.Ia(B.ac,new A.mC("Panda",s,s,s),B.bN,s,300,s,s,1/0),s,s)}}
+return A.HJ(A.Ia(B.ac,new A.mC("\u041f\u0440\u0438\u0432\u0435\u0442 \u041c\u0438\u0440!",s,s,s),B.bN,s,300,s,s,1/0),s,s)}}
 A.dY.prototype={
 h(a){return"AnimationStatus."+this.b}}
 A.c6.prototype={

@@ -32,7 +32,7 @@ class _SimpleWidgetState extends State<SimpleWidget> {
     return Center(
       child: Container(
         color: Colors.blue,
-        child: Text('Panda'),
+        child: Text('Привет Мир!'),
         height: 300,
         width: double.infinity,
         alignment: Alignment.center,
