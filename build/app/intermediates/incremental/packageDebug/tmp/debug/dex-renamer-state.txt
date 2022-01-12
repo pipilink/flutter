@@ -1,0 +1,4 @@
+#Wed Jan 12 20:54:55 KRAT 2022
+base.0=C\:\\Users\\jane\\app\\flutter\\fbtest\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
